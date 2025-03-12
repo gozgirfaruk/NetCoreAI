@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\002_ApiConsumeUI.props" />
+</Project>

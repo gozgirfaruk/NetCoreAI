@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\001_ApiDemo.props" />
+</Project>
