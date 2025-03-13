@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_DallEImageGeneration", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_TesseractOCR", "007_TesseractOCR\007_TesseractOCR.csproj", "{766A75BD-5EFB-4069-9B24-FBEC84C11358}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_GoogleCloudVision", "008_GoogleCloudVision\008_GoogleCloudVision.csproj", "{26BDB6F6-D19F-482D-822B-85BE55CCB44F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_OpenAITranslate", "009_OpenAITranslate\009_OpenAITranslate.csproj", "{FB494A4A-0792-47F2-8786-594082E53F72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{766A75BD-5EFB-4069-9B24-FBEC84C11358}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{766A75BD-5EFB-4069-9B24-FBEC84C11358}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{766A75BD-5EFB-4069-9B24-FBEC84C11358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26BDB6F6-D19F-482D-822B-85BE55CCB44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26BDB6F6-D19F-482D-822B-85BE55CCB44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26BDB6F6-D19F-482D-822B-85BE55CCB44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26BDB6F6-D19F-482D-822B-85BE55CCB44F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB494A4A-0792-47F2-8786-594082E53F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB494A4A-0792-47F2-8786-594082E53F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB494A4A-0792-47F2-8786-594082E53F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB494A4A-0792-47F2-8786-594082E53F72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
