@@ -47,7 +47,7 @@ namespace _002_ApiConsumeUI.Controllers
             }
             return View();
         }
-
+        
 
         public async Task<IActionResult> DeleteCustomer(int id)
         {
@@ -57,7 +57,8 @@ namespace _002_ApiConsumeUI.Controllers
             {
                 return RedirectToAction("CustomerList");
             }
-            return View();
+
+            return RedirectToAction("CustomerList");
         }
 
 

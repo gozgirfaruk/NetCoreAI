@@ -15,3 +15,4 @@ C:\Users\omer.gozegir\source\repos\NetCoreAI\003_RapidApi\obj\Debug\net8.0\ref\0
 C:\Users\omer.gozegir\source\repos\NetCoreAI\003_RapidApi\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\omer.gozegir\source\repos\NetCoreAI\003_RapidApi\obj\Debug\net8.0\003_RapidApi.csproj.AssemblyReference.cache
 C:\Users\omer.gozegir\source\repos\NetCoreAI\003_RapidApi\obj\Debug\net8.0\003_Rapi.8B548A01.Up2Date
+C:\Users\omer.gozegir\source\repos\NetCoreAI\003_RapidApi\obj\Debug\net8.0\003_RapidApi.sourcelink.json
