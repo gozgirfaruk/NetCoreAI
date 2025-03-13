@@ -145,3 +145,4 @@ C:\Users\omer.gozegir\source\repos\NetCoreAI\001_ApiDemo\obj\Debug\net8.0\refint
 C:\Users\omer.gozegir\source\repos\NetCoreAI\001_ApiDemo\obj\Debug\net8.0\001_ApiDemo.pdb
 C:\Users\omer.gozegir\source\repos\NetCoreAI\001_ApiDemo\obj\Debug\net8.0\001_ApiDemo.genruntimeconfig.cache
 C:\Users\omer.gozegir\source\repos\NetCoreAI\001_ApiDemo\obj\Debug\net8.0\ref\001_ApiDemo.dll
+C:\Users\omer.gozegir\source\repos\NetCoreAI\001_ApiDemo\obj\Debug\net8.0\001_ApiDemo.sourcelink.json
