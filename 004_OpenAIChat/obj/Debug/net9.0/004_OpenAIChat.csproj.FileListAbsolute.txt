@@ -1,0 +1,15 @@
+C:\Users\omer.gozegir\source\repos\NetCoreAI\004_OpenAIChat\bin\Debug\net9.0\004_OpenAIChat.exe
+C:\Users\omer.gozegir\source\repos\NetCoreAI\004_OpenAIChat\bin\Debug\net9.0\004_OpenAIChat.deps.json
+C:\Users\omer.gozegir\source\repos\NetCoreAI\004_OpenAIChat\bin\Debug\net9.0\004_OpenAIChat.runtimeconfig.json
+C:\Users\omer.gozegir\source\repos\NetCoreAI\004_OpenAIChat\bin\Debug\net9.0\004_OpenAIChat.dll
+C:\Users\omer.gozegir\source\repos\NetCoreAI\004_OpenAIChat\bin\Debug\net9.0\004_OpenAIChat.pdb
+C:\Users\omer.gozegir\source\repos\NetCoreAI\004_OpenAIChat\obj\Debug\net9.0\004_OpenAIChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omer.gozegir\source\repos\NetCoreAI\004_OpenAIChat\obj\Debug\net9.0\004_OpenAIChat.AssemblyInfoInputs.cache
+C:\Users\omer.gozegir\source\repos\NetCoreAI\004_OpenAIChat\obj\Debug\net9.0\004_OpenAIChat.AssemblyInfo.cs
+C:\Users\omer.gozegir\source\repos\NetCoreAI\004_OpenAIChat\obj\Debug\net9.0\004_OpenAIChat.csproj.CoreCompileInputs.cache
+C:\Users\omer.gozegir\source\repos\NetCoreAI\004_OpenAIChat\obj\Debug\net9.0\004_OpenAIChat.sourcelink.json
+C:\Users\omer.gozegir\source\repos\NetCoreAI\004_OpenAIChat\obj\Debug\net9.0\004_OpenAIChat.dll
+C:\Users\omer.gozegir\source\repos\NetCoreAI\004_OpenAIChat\obj\Debug\net9.0\refint\004_OpenAIChat.dll
+C:\Users\omer.gozegir\source\repos\NetCoreAI\004_OpenAIChat\obj\Debug\net9.0\004_OpenAIChat.pdb
+C:\Users\omer.gozegir\source\repos\NetCoreAI\004_OpenAIChat\obj\Debug\net9.0\004_OpenAIChat.genruntimeconfig.cache
+C:\Users\omer.gozegir\source\repos\NetCoreAI\004_OpenAIChat\obj\Debug\net9.0\ref\004_OpenAIChat.dll
