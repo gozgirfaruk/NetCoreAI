@@ -1,0 +1,15 @@
+C:\Users\omer.gozegir\source\repos\NetCoreAI\005_OpenAIWhisperAudioTranskript\obj\Debug\net9.0\005_OpenAIWhisperAudioTranskript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omer.gozegir\source\repos\NetCoreAI\005_OpenAIWhisperAudioTranskript\obj\Debug\net9.0\005_OpenAIWhisperAudioTranskript.AssemblyInfoInputs.cache
+C:\Users\omer.gozegir\source\repos\NetCoreAI\005_OpenAIWhisperAudioTranskript\obj\Debug\net9.0\005_OpenAIWhisperAudioTranskript.AssemblyInfo.cs
+C:\Users\omer.gozegir\source\repos\NetCoreAI\005_OpenAIWhisperAudioTranskript\obj\Debug\net9.0\005_OpenAIWhisperAudioTranskript.csproj.CoreCompileInputs.cache
+C:\Users\omer.gozegir\source\repos\NetCoreAI\005_OpenAIWhisperAudioTranskript\obj\Debug\net9.0\005_OpenAIWhisperAudioTranskript.sourcelink.json
+C:\Users\omer.gozegir\source\repos\NetCoreAI\005_OpenAIWhisperAudioTranskript\bin\Debug\net9.0\005_OpenAIWhisperAudioTranskript.exe
+C:\Users\omer.gozegir\source\repos\NetCoreAI\005_OpenAIWhisperAudioTranskript\bin\Debug\net9.0\005_OpenAIWhisperAudioTranskript.deps.json
+C:\Users\omer.gozegir\source\repos\NetCoreAI\005_OpenAIWhisperAudioTranskript\bin\Debug\net9.0\005_OpenAIWhisperAudioTranskript.runtimeconfig.json
+C:\Users\omer.gozegir\source\repos\NetCoreAI\005_OpenAIWhisperAudioTranskript\bin\Debug\net9.0\005_OpenAIWhisperAudioTranskript.dll
+C:\Users\omer.gozegir\source\repos\NetCoreAI\005_OpenAIWhisperAudioTranskript\bin\Debug\net9.0\005_OpenAIWhisperAudioTranskript.pdb
+C:\Users\omer.gozegir\source\repos\NetCoreAI\005_OpenAIWhisperAudioTranskript\obj\Debug\net9.0\005_OpenAIWhisperAudioTranskript.dll
+C:\Users\omer.gozegir\source\repos\NetCoreAI\005_OpenAIWhisperAudioTranskript\obj\Debug\net9.0\refint\005_OpenAIWhisperAudioTranskript.dll
+C:\Users\omer.gozegir\source\repos\NetCoreAI\005_OpenAIWhisperAudioTranskript\obj\Debug\net9.0\005_OpenAIWhisperAudioTranskript.pdb
+C:\Users\omer.gozegir\source\repos\NetCoreAI\005_OpenAIWhisperAudioTranskript\obj\Debug\net9.0\005_OpenAIWhisperAudioTranskript.genruntimeconfig.cache
+C:\Users\omer.gozegir\source\repos\NetCoreAI\005_OpenAIWhisperAudioTranskript\obj\Debug\net9.0\ref\005_OpenAIWhisperAudioTranskript.dll
