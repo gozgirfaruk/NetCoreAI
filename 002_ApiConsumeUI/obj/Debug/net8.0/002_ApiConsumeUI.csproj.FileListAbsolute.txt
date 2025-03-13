@@ -229,3 +229,4 @@ C:\Users\omer.gozegir\source\repos\NetCoreAI\002_ApiConsumeUI\obj\Debug\net8.0\0
 C:\Users\omer.gozegir\source\repos\NetCoreAI\002_ApiConsumeUI\obj\Debug\net8.0\002_ApiConsumeUI.genruntimeconfig.cache
 C:\Users\omer.gozegir\source\repos\NetCoreAI\002_ApiConsumeUI\obj\Debug\net8.0\ref\002_ApiConsumeUI.dll
 C:\Users\omer.gozegir\source\repos\NetCoreAI\002_ApiConsumeUI\obj\Debug\net8.0\002_ApiConsumeUI.sourcelink.json
+C:\Users\omer.gozegir\source\repos\NetCoreAI\002_ApiConsumeUI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
