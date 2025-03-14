@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "enqS8ab6a/k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omer.gozegir\\source\\repos\\NetCoreAI\\007_TesseractOCR\\007_TesseractOCR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omer.gozegir\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\omer.gozegir\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
