@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qsNEfJ63+90=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omer.gozegir\\source\\repos\\NetCoreAI\\010_TextToSpeech\\010_TextToSpeech.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omer.gozegir\\.nuget\\packages\\system.speech\\9.0.3\\system.speech.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
