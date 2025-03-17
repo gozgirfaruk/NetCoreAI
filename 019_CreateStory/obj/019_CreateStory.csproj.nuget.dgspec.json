@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omer.gozegir\\source\\repos\\NetCoreAI\\009_OpenAITranslate\\009_OpenAITranslate.csproj": {}
+    "C:\\Users\\omer.gozegir\\source\\repos\\NetCoreAI\\019_CreateStory\\019_CreateStory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omer.gozegir\\source\\repos\\NetCoreAI\\009_OpenAITranslate\\009_OpenAITranslate.csproj": {
+    "C:\\Users\\omer.gozegir\\source\\repos\\NetCoreAI\\019_CreateStory\\019_CreateStory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omer.gozegir\\source\\repos\\NetCoreAI\\009_OpenAITranslate\\009_OpenAITranslate.csproj",
-        "projectName": "009_OpenAITranslate",
-        "projectPath": "C:\\Users\\omer.gozegir\\source\\repos\\NetCoreAI\\009_OpenAITranslate\\009_OpenAITranslate.csproj",
+        "projectUniqueName": "C:\\Users\\omer.gozegir\\source\\repos\\NetCoreAI\\019_CreateStory\\019_CreateStory.csproj",
+        "projectName": "019_CreateStory",
+        "projectPath": "C:\\Users\\omer.gozegir\\source\\repos\\NetCoreAI\\019_CreateStory\\019_CreateStory.csproj",
         "packagesPath": "C:\\Users\\omer.gozegir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omer.gozegir\\source\\repos\\NetCoreAI\\009_OpenAITranslate\\obj\\",
+        "outputPath": "C:\\Users\\omer.gozegir\\source\\repos\\NetCoreAI\\019_CreateStory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
@@ -52,12 +52,6 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "dependencies": {
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
