@@ -1,0 +1,15 @@
+C:\Users\omer.gozegir\source\repos\NetCoreAI\015_NewsSummarize\bin\Debug\net9.0\015_NewsSummarize.exe
+C:\Users\omer.gozegir\source\repos\NetCoreAI\015_NewsSummarize\bin\Debug\net9.0\015_NewsSummarize.deps.json
+C:\Users\omer.gozegir\source\repos\NetCoreAI\015_NewsSummarize\bin\Debug\net9.0\015_NewsSummarize.runtimeconfig.json
+C:\Users\omer.gozegir\source\repos\NetCoreAI\015_NewsSummarize\bin\Debug\net9.0\015_NewsSummarize.dll
+C:\Users\omer.gozegir\source\repos\NetCoreAI\015_NewsSummarize\bin\Debug\net9.0\015_NewsSummarize.pdb
+C:\Users\omer.gozegir\source\repos\NetCoreAI\015_NewsSummarize\obj\Debug\net9.0\015_NewsSummarize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omer.gozegir\source\repos\NetCoreAI\015_NewsSummarize\obj\Debug\net9.0\015_NewsSummarize.AssemblyInfoInputs.cache
+C:\Users\omer.gozegir\source\repos\NetCoreAI\015_NewsSummarize\obj\Debug\net9.0\015_NewsSummarize.AssemblyInfo.cs
+C:\Users\omer.gozegir\source\repos\NetCoreAI\015_NewsSummarize\obj\Debug\net9.0\015_NewsSummarize.csproj.CoreCompileInputs.cache
+C:\Users\omer.gozegir\source\repos\NetCoreAI\015_NewsSummarize\obj\Debug\net9.0\015_NewsSummarize.sourcelink.json
+C:\Users\omer.gozegir\source\repos\NetCoreAI\015_NewsSummarize\obj\Debug\net9.0\015_NewsSummarize.dll
+C:\Users\omer.gozegir\source\repos\NetCoreAI\015_NewsSummarize\obj\Debug\net9.0\refint\015_NewsSummarize.dll
+C:\Users\omer.gozegir\source\repos\NetCoreAI\015_NewsSummarize\obj\Debug\net9.0\015_NewsSummarize.pdb
+C:\Users\omer.gozegir\source\repos\NetCoreAI\015_NewsSummarize\obj\Debug\net9.0\015_NewsSummarize.genruntimeconfig.cache
+C:\Users\omer.gozegir\source\repos\NetCoreAI\015_NewsSummarize\obj\Debug\net9.0\ref\015_NewsSummarize.dll
