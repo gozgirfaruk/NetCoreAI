@@ -1,0 +1,15 @@
+C:\Users\omer.gozegir\source\repos\NetCoreAI\017_ImageDetection\bin\Debug\net9.0\017_ImageDetection.exe
+C:\Users\omer.gozegir\source\repos\NetCoreAI\017_ImageDetection\bin\Debug\net9.0\017_ImageDetection.deps.json
+C:\Users\omer.gozegir\source\repos\NetCoreAI\017_ImageDetection\bin\Debug\net9.0\017_ImageDetection.runtimeconfig.json
+C:\Users\omer.gozegir\source\repos\NetCoreAI\017_ImageDetection\bin\Debug\net9.0\017_ImageDetection.dll
+C:\Users\omer.gozegir\source\repos\NetCoreAI\017_ImageDetection\bin\Debug\net9.0\017_ImageDetection.pdb
+C:\Users\omer.gozegir\source\repos\NetCoreAI\017_ImageDetection\obj\Debug\net9.0\017_ImageDetection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omer.gozegir\source\repos\NetCoreAI\017_ImageDetection\obj\Debug\net9.0\017_ImageDetection.AssemblyInfoInputs.cache
+C:\Users\omer.gozegir\source\repos\NetCoreAI\017_ImageDetection\obj\Debug\net9.0\017_ImageDetection.AssemblyInfo.cs
+C:\Users\omer.gozegir\source\repos\NetCoreAI\017_ImageDetection\obj\Debug\net9.0\017_ImageDetection.csproj.CoreCompileInputs.cache
+C:\Users\omer.gozegir\source\repos\NetCoreAI\017_ImageDetection\obj\Debug\net9.0\017_ImageDetection.sourcelink.json
+C:\Users\omer.gozegir\source\repos\NetCoreAI\017_ImageDetection\obj\Debug\net9.0\017_ImageDetection.dll
+C:\Users\omer.gozegir\source\repos\NetCoreAI\017_ImageDetection\obj\Debug\net9.0\refint\017_ImageDetection.dll
+C:\Users\omer.gozegir\source\repos\NetCoreAI\017_ImageDetection\obj\Debug\net9.0\017_ImageDetection.pdb
+C:\Users\omer.gozegir\source\repos\NetCoreAI\017_ImageDetection\obj\Debug\net9.0\017_ImageDetection.genruntimeconfig.cache
+C:\Users\omer.gozegir\source\repos\NetCoreAI\017_ImageDetection\obj\Debug\net9.0\ref\017_ImageDetection.dll
